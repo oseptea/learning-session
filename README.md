@@ -1,11 +1,11 @@
 # learning-session
-##JHT Benchamrk
+## JHT Benchamrk
 ```
 mvn clean package && java -cp target/improvement.jar com.learningsession.Application
 ```
-##Code Coverage
-Execute this command
+
+## Code Coverage
 ```
 mvn clean test
 ```
-Open `./target/jacoco-report/index.html` to check coverage report of code
+Open `/target/jacoco-report/index.html` to check coverage report of code
